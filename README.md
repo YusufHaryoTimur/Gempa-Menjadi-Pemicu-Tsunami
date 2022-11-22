@@ -1,0 +1,1 @@
+# Gempa-Menjadi-Pemicu-Tsunami
