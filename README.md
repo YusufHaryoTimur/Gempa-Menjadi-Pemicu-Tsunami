@@ -14,8 +14,11 @@ Dalam paper ini, mereka memiliki tujuan untuk memberikan informasi kepada khalay
 
 ## Metode
 • Mereka meneliti tentang potensi gempa bumi dan tsunami dengan menganalisis karakteristik sejarah gempa bumi, menghitung perbedaan tekanan dan mensimulasikan ratusan hipotesis perpecahan dan mensimulasikan bahaya tsunami yang masuk dalam zona subduksi Sulawesi Utara
+
 • Mereka menggunakan hukum Gutenberg-Richter untuk memeriksa frekuensi distribusi skala besar. Kemudian, mereka menggunakan software Coulomb 3.3 dengan paket lengkap untuk menghitung perubahan tekanan pada 5 gempa besar yang terjadi di zona subduksi Sulawesi Utara
+
 • Mereka membuat pengukuran kesalahan gaya megathrust dari model Slab 2.0 secara acak yang didistribusikan di sepanjang megathrust kedalaman dangkal dengan variabel kekasaran antara 0,35 dan 0,8. Skala besar gempa bumi yang sama diperkirakan terjadi antara Mw 7,9 hingga 9 (dengan interval 0,3) yang dapat memicu gelombang tsunami yang besar di zona subduksi global.
+
 • Mereka melakukan pemodelan Tsunami dengan software COMCOT (Cornell Multi-grid Model Tsunami). Mereka mensimulasikan penyebaran gelombang tsunami menggunakan model slip yang diusulkan dengan data bathymetry berlapis satu
 
 ## Result
