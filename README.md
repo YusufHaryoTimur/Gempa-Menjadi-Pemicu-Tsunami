@@ -1,7 +1,7 @@
 # Potensi Bahaya Gempa Bumi Bagi Masyarakat Indonesia dan Dunia
 ## Background
 Dalam paper ini, mereka memiliki tujuan untuk memberikan informasi kepada khalayak mengenai gempa bumi dan zona subduksi di Pulau Sulawesi yang menimbulkan tsunami besar pada tahun 2018
-1. Gempa bumi adalah getaaran yang bersumber di dalam bumi dan kemudian merambat ke permukaan bumi akibat rekahan pada bumi pecah dan bergeser dengan keras
+1. Gempa bumi adalah getaran yang bersumber di dalam bumi dan kemudian merambat ke permukaan bumi akibat rekahan pada bumi pecah dan bergeser dengan keras
 2. Gempa bumi dikelompokkan menjadi 2, yaitu gempa bumi tektonik dan gempa bumi vulkanik.
 3. Gempa bumi vulkanik merupakan gempa bumi yang disebabkan oleh aktivitas gunung berapi. 
 4. Gempa bumi tektonik merupakan gempa bumi yang terjadi akibat getaran dari peristiwa pematahan batuan akibat benturan dua lempeng secara perlahan-lahan yang energi batuan tersebut melampaui kekuatan batuan. 
